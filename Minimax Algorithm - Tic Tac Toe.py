@@ -7,7 +7,7 @@ import poc_ttt_provided as provided
 
 # Set timeout, as mini-max can take a long time
 import codeskulptor
-codeskulptor.set_timeout(60)
+codeskulptor.set_timeout(150)
 
 # SCORING VALUES - DO NOT MODIFY
 SCORES = {provided.PLAYERX: 1,
